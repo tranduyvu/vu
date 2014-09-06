@@ -1,0 +1,33 @@
+<audio>
+<source src="music_on.ogg" type="audio/ogg">
+<source src="horse_on.mp3" type="audio/mpeg">
+Trình duyệt không hổ trợ tính năng này.
+</audio>
+ 
+ add audio vao trinh duyet
+
+ <video width="640" height="360">
+<source src="two_face.mp4" type="video/mp4">
+<source src="two_face.ogg" type="video/ogg">
+Trình duyệt không hổ trợ tính năng này.
+</video>
+
+add video
+
+<video controls>
+ <!-- source here -->
+ </video>
+
+ trinh dieu khien video
+
+ <video autoplay>
+ <!-- source here -->
+ </video>
+
+  tu dong chay video
+
+  <video poster=”path/to/image.jpg”>
+ <!-- source here -->
+ </video> 
+
+ dat anh dai dien cho video

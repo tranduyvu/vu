@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style">
+	<title>duyvu</title>
+</head>
+<body>
+	<div id="wraper"></div>
+		<header>
+		<div id="animation"></div>
+		<div id="logo"></div>
+		<nav id="top content"></nav>
+		<nav id="head content"></nav>
+		</header>
+		<div id="content">
+			<div id="left content"></div>
+			<div id="right content"></div>
+		</div>
+	<footer>
+		<div id="footer content"></div>
+	</footer>
+</body>
+</html>

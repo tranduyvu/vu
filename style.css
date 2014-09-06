@@ -1,0 +1,330 @@
+
+body{
+	font-family: "Utm duepuntozero",tahoma,arial;
+	/*background:-moz-linear-gradient(top #dacaa9 15% #de5140 50%) no-repeat;
+	background:-webkit-linear-gradient(top #dacaa9 15% #de5140 50%) no-repeat;*/
+	background: url(cut/bg.jpg);
+}
+a{
+	text-decoration: none;
+}
+
+header{
+	width: 100%;
+	height: 200px;
+}
+
+header img{
+	width:100%;
+	height: 100%; 
+}
+
+.con1{
+	width:1200px;	
+	height: 300px;
+	margin: 0 auto;
+	background: url(photo/nen1.jpg) no-repeat;
+}
+
+.con1 header{
+	width: 100%;
+	height:200px;
+}
+
+.con1 header nav{
+	width: 100%;
+	height: 30px;
+	background: url(CUT/HEADER.jpg) repeat-x;
+	text-align: center;
+}
+
+.con1 header nav ul{
+	width:50%;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 0 auto;
+
+}
+
+.con1 header nav ul a{
+	float: left;
+	margin-left: 20px; 
+	text-decoration: none;
+	color: white;
+
+	
+}
+
+.con1 header nav ul a:hover{
+	background-color:  #25c616;
+	-moz-transition:all 900ms linear;
+}
+.con1 img{
+	width: 130px;
+	height: 185px;
+	margin-top: -30px;
+	margin-left: 25px;
+}
+
+
+
+.con2{
+	width: 1200px;
+	height: 1150px;
+	margin:0 auto;
+	border: 1px solid green;
+	background: #fdf6dc;
+}
+.con2.section{
+	float: left;
+}
+
+.con2 header{
+	width: 1200px;
+	height: 30px;
+	text-align: center;
+	color: white;
+	font-size: 24px;
+	background:url(CUT/HEADER.jpg);
+	margin: 0 auto;
+	text-transform: uppercase;
+	margin-top: -30px;
+}
+
+.con2 header p{
+	text-align: center;
+}
+
+
+.con2 .chau1{
+	width: 785px;
+	height:522px;
+	float: left;
+	margin-left:15px;
+	/*border : 2px solid blue;*/
+	/*margin-top:30px;*/
+	
+}
+
+.con2 .chau1 .chat1{
+	height: 40px;
+	margin-top: 30px;
+	font-size: 24px;
+	border-bottom: 3px solid #742700;
+	font:tahoma;
+	color: #742700;
+	margin-bottom: 30px;
+
+}
+
+.con2 .chau1 section{
+	width: 100%;
+	height: 100px;
+	margin-bottom: 50px;
+}
+
+.con2 .chau1 section div {
+	float: left;
+}
+
+.con2 .chau1 section div:nth-child(1) {
+	width: 100px;
+	height: 100px;
+	margin-right:10px;
+	border: 2px solid red;
+}
+.con2 .chau1 section div:nth-child(1) img {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.con2 .chau1 section div:nth-child(2){
+	width:250px;
+	height: 100px;
+	margin-left: 10px;
+}
+
+.con2 .chau1 section div:nth-child(3){
+	width: 100px;
+	height: 100px;
+	border: 2px solid red;
+	margin-left:30px;
+}
+.con2 .chau1 section div:nth-child(3) img{
+	width:100%;
+	height: 100%;
+	margin: 0 auto;
+	/*padding-left: 15px;*/
+
+}
+.con2 .chau1 section div:nth-child(4){
+	width:250px;
+	height: 100px;
+	padding-left: 10px;
+}
+
+.con2 .chau2{
+	/*border: 2px solid red;*/
+	width: 390px;
+	height: 522px;
+	float: left;
+	/*margin-top:30px;*/
+}
+
+.con2 .chau2 .chat2{
+	height: 25px;
+	margin-left: 30px;
+	margin-top: 5px;
+
+
+}
+
+.con2 .chau2 .chat3{
+	width: 350px;
+	height: 40px;
+	background: #feac00;
+	border-radius: 250px;
+	margin: 0 auto;
+	box-shadow: 2px;
+}
+
+.con2 .chau2 .chat3 form {
+	width:100%;
+	height: 35px;
+	margin-top: 5px;
+}
+
+
+.con2 .chau2 .chat3 form input{
+	margin:7px 0 0 10px;
+	border-radius: 7px;
+	box-shadow: 2px;
+}
+
+.con2 .chau2 .chat3 form input:first-child{
+	width: 245px;
+}
+
+.con2 .chau2 section{
+	width: 350px;
+	height:420px;
+	border: 2px solid yellow;
+	margin:0 auto;
+	margin-top: 30px;
+
+}
+
+.con2 .chau2 section .vu{
+	height: 40px;
+	font-size: 24px;
+	border-bottom: 3px solid #742700;
+	font:tahoma;
+}
+
+.con2 .chau2 section ul{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+
+}
+
+.con2 .chau2 section ul li{
+	width: 100%;
+	height: 340px;
+	list-style-type: none;
+	border: 1px solid red;
+	margin-left: -40px;
+	background: #feac00;
+	
+}
+
+
+.con2 .chau2 section ul li div{
+	width: 100%;
+	height:32px;
+	text-align: center;
+	border: 1px solid white;
+}
+
+.con2 .chau2 section ul li div:hover{
+	background-color:#bb8847;
+
+}
+
+.con2 #chau3{
+	width:100%;
+	height:auto;
+	border: 1px solid blue;
+}
+
+.con2 #chau3 section{
+	width:370px;
+	height:auto;
+	background: #faf9f4;
+	border: 3px dashed red;
+	float: left;
+	margin-top: 50px;
+	margin-left: 15px;
+}
+
+.con2 #chau3 section div{
+	width:350px;
+	margin: 0 auto;
+	float: left;
+}
+
+.con2 #chau3 section .title{
+	height: 30px;
+	font-size: 24px;
+	color: #853f1d;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.con2 #chau3 section .pic{
+	height: 170px;
+	border: 2px solid #f9e2c9;
+}
+
+.con2 #chau3 section .pic img{
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.con2 #chau3 section .content1{
+	height: 40px;
+	font-size: 20px;
+	color:black;
+	margin-top: 10px;
+}
+
+.con2 #chau3 section button{
+	width: 80px;
+	height: 30px;
+	background: #692301;
+	text-align: center;
+	color: white;
+	margin:5px 5px 5px 240px;
+}
+
+.con2 #chau3 section.button{
+	padding-right: 0px;
+	margin-top: 10px;
+}
+
+.con2 #chau3 section .button :hover{
+	background:red;
+	cursor: pointer;
+}
+
+footer{
+	width: 100%;
+	height: 300px;
+}
+
+footer img{
+	width:100%;
+	height: 100%; 
+}
